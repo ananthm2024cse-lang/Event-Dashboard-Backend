@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1766118408590",
+    "event_id": "EVT1766118408548",
+    "name": "Test Tube",
+    "date": "2023-04-09",
+    "time": "09:00",
+    "location": "Sri Eshwasr college of Engineering",
+    "organizer": "",
+    "description": "Usually made of borosilicate glass (sometimes plastic) to withstand heat and chemicals\n\nHas a round bottom and an open top\n\nSmall in size and lightweight\n\nCommonly supported using a test tube holder or rack",
+    "capacity": 100,
+    "status": "Upcoming",
+    "registrations": 0,
+    "createdAt": "2025-12-19T04:26:48.590Z"
+  }
+]
